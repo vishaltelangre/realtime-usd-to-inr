@@ -8,7 +8,7 @@
   },
   "main": "./lib/main",
   "bin": {
-    "realtime-usd-to-inr": "./bin/convert"
+    "usd2inr": "./bin/convert.js"
   },
   "dependencies": {
     "cheerio" : "0.12.1"
