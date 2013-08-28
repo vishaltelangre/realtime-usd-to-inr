@@ -2,7 +2,7 @@
   "author": "Vishal Telangre",
   "name": "realtime-usd-to-inr",
   "description": "Node package to retrieve realtime value of INR for unit USD.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "url": "https://github.com/vishaltelangre/realtime-usd-to-inr"
   },
