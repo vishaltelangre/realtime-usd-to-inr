@@ -4,8 +4,14 @@ Retrieves realtime value of Indian Rupee - ₹ (INR) for unit US Dollars (USD).
 
 ### Installation
 
-```javascript
+```sh
 npm install realtime-usd-to-inr
+```
+
+or install it globally:
+
+```sh
+npm install -g realtime-usd-to-inr
 ```
 
 ### Usage
@@ -16,5 +22,5 @@ usd2inr
 
 # and also you can provide the multiplication factor
 usd2inr 5
-$5 = ₹ 343.275
+# $5 = ₹ 343.275
 ```
