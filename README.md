@@ -16,5 +16,5 @@ usd2inr
 
 # and also you can provide the multiplication factor
 usd2inr 5
-$5 = ₹ 343.275
+# $5 = ₹ 343.275
 ```
